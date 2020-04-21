@@ -34,7 +34,7 @@ s.vendored_frameworks = 'PXRPPayWallet.framework'
 s.public_header_files = 'PXRPPayWallet.framework/Headers/*.{h}'
 
 #依赖库
-s.libraries    = 'sqlite3','icucore','z','libc++'
+s.libraries    = 'sqlite3','icucore','z','c++'
 
 #依赖库
 s.frameworks   = 'UIKit','Foundation','MobileCoreServices','CoreGraphics','AssetsLibrary'

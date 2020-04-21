@@ -106,7 +106,7 @@ Pod::Spec.new do |spec|
 
   # spec.resource  = "icon.png"
    #spec.resources = "Resources/*.png"  
-   s.resource_bundles = {
+   spec.resource_bundles = {
                          'FidoTable.bundle' => ['/*.png'],
                          'PXRPPayWalletResource.bundle' => ['/*'],
                          'SIPKeyboardBundle.bundle' => ['/*']

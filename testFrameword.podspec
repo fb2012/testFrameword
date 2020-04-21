@@ -107,9 +107,9 @@ Pod::Spec.new do |spec|
   # spec.resource  = "icon.png"
    #spec.resources = "Resources/*.png"  
    spec.resource_bundles = {
-                         'FidoTable.bundle' => ['/*.png'],
-                         'PXRPPayWalletResource.bundle' => ['/*'],
-                         'SIPKeyboardBundle.bundle' => ['/*']
+                         'FidoTable' => ['FidoTable/*'],
+                         'PXRPPayWalletResource' => ['PXRPPayWalletResource/*'],
+                         'SIPKeyboardBundle' => ['SIPKeyboardBundle/*']
                          }
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"

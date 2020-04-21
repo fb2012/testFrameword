@@ -122,10 +122,10 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "SomeFramework"
-   spec.frameworks = 'UIKit','Foundation','MobileCoreServices','CoreGraphics','AssetsLibrary'
+   #spec.frameworks = 'UIKit','Foundation','MobileCoreServices','CoreGraphics','AssetsLibrary'
 
   # spec.library   = "iconv"
-   spec.libraries = "sqlite3", "c++"
+   #spec.libraries = "sqlite3", "c++"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

@@ -1,0 +1,6 @@
+framework module PXRPPayWallet {
+  umbrella header "PXRPPayWallet.h"
+
+  export *
+  module * { export * }
+}

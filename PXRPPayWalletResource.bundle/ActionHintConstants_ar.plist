@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hinttext_action_0</key>
+	<string>الوجه للكاميره الأماميه</string>
+	<key>hinttext_action_60</key>
+	<string> حرك رأسك الى اليمين والى اليسار</string>
+	<key>hinttext_action_53</key>
+	<string>  حرك رأسك الى الأعلى و الى الأسفل</string>
+	<key>hinttext_action_52</key>
+	<string>حرك رأسك الى اليمين ببطء</string>
+	<key>hinttext_action_51</key>
+	<string>حرك رأسك الى اليسار ببطء</string>
+	<key>hinttext_action_3</key>
+	<string>ارمش بعينيك</string>
+	<key>hinttext_action_1</key>
+	<string>افتح فمك</string>
+	<key>hinttext_action_50</key>
+	<string>الوجه للكاميره الأماميه</string>
+</dict>
+</plist>

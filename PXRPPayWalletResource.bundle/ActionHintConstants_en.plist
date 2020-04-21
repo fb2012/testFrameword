@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hinttext_action_0</key>
+	<string>Face front camera</string>
+	<key>hinttext_action_60</key>
+	<string>Shake your head right and left</string>
+	<key>hinttext_action_53</key>
+	<string>Move your head up and down</string>
+	<key>hinttext_action_52</key>
+	<string>Head to the right slowly</string>
+	<key>hinttext_action_51</key>
+	<string>Head to the left slowly</string>
+	<key>hinttext_action_3</key>
+	<string>Blink your eyes</string>
+	<key>hinttext_action_1</key>
+	<string>Open your mouth</string>
+	<key>hinttext_action_50</key>
+	<string>Face front camera</string>
+</dict>
+</plist>
